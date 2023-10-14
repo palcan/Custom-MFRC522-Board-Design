@@ -47,7 +47,7 @@ Although it is fun to write a more blog-style entry, I believe a typical readme 
 [Design](#Design)  
 [Test](#Testing-the-custom-MFRC522-NFC-reader)  
 [Code explanation](#Code-explanation)  
-[Cost Discussion](#Cost-Discussion)
+[Cost Discussion](#Cost-Discussion)  
 [License](#License)
 
 ## Introduction
