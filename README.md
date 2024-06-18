@@ -52,9 +52,9 @@ Although it is fun to write a more blog-style entry, I believe a typical readme 
 
 ## Introduction
 
-I recently found my self interested in combining electronics with physical games. I was on paternity leave at that time, and so had some time to think and read and throw together quick breadboard protoypes, and even sometimes do a bit of schematic and layout design, while the baby was sleeping. The result of all the bits and pieces that came out of it is now organized into this repository and presented here in this document. 
+I recently found my self interested in Near Field Communication (NFC) technology. I was on paternity leave at that time, and so had some time to think and read and throw together quick breadboard protoypes, and even sometimes do a bit of schematic and layout design, while the baby was sleeping. The result of all the bits and pieces that came out of it is now organized into this repository and presented here in this document. 
 
-After reading up on several possible approaches, it seemed like NFC would be a great technology for combining electronics with physical games, so down the rabbithole I set off. After using google for quite a bit, I found som very cheap cheap NFC boards and cheap tags, built around the MFRC522 chip and the Mifare Classic tags. The size of the tags (25 mm diameter) seemed perfect for making an electronic game with multiple sensor tiles and some decently sized game figurines. I therefore went and bought 10 of the most common NFC board found all over the internet, the RC522 RFID RECEIVER,  
+After reading up on several possible approaches, and using google for quite a bit, I found som very cheap cheap NFC boards and cheap tags, built around the MFRC522 chip and the Mifare Classic tags. I therefore went and bought 10 of the most common NFC board found all over the internet, the RC522 RFID RECEIVER,  
 
 <img src="Images/RC522-rfid-reciever_and_key.png" width=100% height=100%>  
 
